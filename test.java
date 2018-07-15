@@ -1,3 +1,1 @@
-Adding some new class
-
-
+This is a new line
