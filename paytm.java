@@ -7,3 +7,5 @@ added new features
 struggling to commit
 
 checking push command
+
+Adding a patch
