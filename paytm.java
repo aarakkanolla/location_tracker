@@ -1,3 +1,5 @@
+This is a new feature branch.
+
 This is a new line
 
 comment for stash queue.
