@@ -13,7 +13,7 @@ public class User {
 	public String getName() {
 		return name;
 	}
-        public String getabhiName() {
+        public String getHariniName() {
                 return name;
         }
 	public void setName(String name) {
