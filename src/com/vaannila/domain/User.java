@@ -13,7 +13,7 @@ public class User {
 	public String getName() {
 		return name;
 	}
-        public String getdifferentName() {
+        public String getdiferentName() {
                 return name;
         }
 	public void setName(String name) {
